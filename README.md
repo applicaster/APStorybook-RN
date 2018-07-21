@@ -9,3 +9,5 @@ run `npm i`
 ### Running apps
 
 `react-native run-android` or `react-native run-ios`
+
+NOTE: Must have storybook running in plugin first.
